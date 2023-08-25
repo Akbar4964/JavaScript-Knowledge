@@ -1,3 +1,4 @@
+"use strict";
 // ALERT
 // alert("Hello world!")
 
@@ -121,3 +122,22 @@
 
 // let num = 17;
 // console.log(typeof num);
+
+// LET, CONST AND VAR VARIABLES DIFFERENTS
+// let age = 17;
+// console.log(age);
+// age = 18;
+// console.log(age);
+
+// const age = 17;
+// console.log(age);
+// age = 17;
+// console.log(age)
+
+// var age = 17;
+// console.log(age);
+// age = 18;
+// console.log(age);
+
+// name = "Akbar";
+// console.log(name);
