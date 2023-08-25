@@ -1,10 +1,32 @@
 "use strict";
-// ALERT
-// alert("Hello world!")
+// ALERT;
+// alert("Hello world!");
 
-// alert("My name is Akbar")
+// alert("My name is Akbar");
 
-// alert("How are you?")
+// alert("How are you?");
+
+// alert("salom dunyo!");
+
+// alert("salom dunyo");
+
+// alert("Salom dunyo!");
+
+// alert("Salom dunyo!");
+
+// alert("Salom dunyo!");
+
+// alert("Salom dunyo!");
+
+// alert("Salom dunyo!");
+
+// alert("Salom dunyo!");
+
+// alert("Salom dunyo!");
+
+// alert("Salom dunyo!");
+
+// alert("Salom dunyo!");
 
 // VARIABLE --> VARIABLE NAME --> = --> VARIABLE VALUE
 // let name = "Akbar";
@@ -33,6 +55,24 @@
 
 // let userAge = 17;
 // console.log(userAge);
+
+// let name = "Akbar";
+// console.log(name);
+
+// let surname = "Shuhratullayev";
+// console.log(surname);
+
+// let age = 17;
+// console.log(age)
+
+// let name = "Akbar";
+// console.log(name);
+
+// let surname = "Shuhratulleyev";
+// console.log(surname);
+
+// let age = 17;
+// console.log(age);
 
 // VARIABLEDA ISHLATISH MUMKIN BO'LMAGAN HOLATLAR
 // let with name = "Akbar";
