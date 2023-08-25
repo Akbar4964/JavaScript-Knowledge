@@ -141,3 +141,52 @@
 
 // name = "Akbar";
 // console.log(name);
+
+// OPERATORS
+// ARIFMETIC OPERATORS
+// let a = 10;
+// let b = 10;
+// console.log(a + b);
+// console.log(a - b);
+// console.log(a / b);
+// console.log(a * b);
+// console.log(a % b);
+// console.log(a++);
+// console.log(b);
+// console.log(++b);
+// console.log(a);
+// console.log(a--);
+// console.log(b);
+// console.log(--b);
+// console.log(a);
+
+// CONPARISON OPERATORS
+// let a = 5;
+// let b = 10;
+// let c = "15";
+// console.log(a == b);
+// console.log(a === c);
+// console.log(a != b);
+// console.log(a != c);
+// console.log(a > b);
+// console.log(a < b);
+// console.log(a >= c);
+// console.log(a <= b);
+
+// ASSIGMENT OPERATORS
+// let a = 5;
+// let b = 10;
+// let c = 15;
+// console.log(a);
+// a = b;
+// console.log(a);
+// a += b;
+// console.log(a);
+// a -= b;
+// console.log(a);
+// c *= b;
+// console.log(c);
+// c /= b;
+// console.log(c);
+// b %= c;
+// console.log(b);
