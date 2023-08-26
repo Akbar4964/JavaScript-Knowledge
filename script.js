@@ -238,6 +238,20 @@
 // console.log(a || b);
 // console.log(!a);
 
+// EXERCISE
+// const htmlPassed = false;
+// const cssPassed = true;
+// let message = "";
+
+// if (htmlPassed && cssPassed) {
+//   message = "Siz JavaScript kursini boshlashingiz mumkin!";
+// } else if (htmlPassed || cssPassed) {
+//   message = "Siz Html kursini yoki Css kursini tugatmagansiz!";
+// } else {
+//   message = "Siz hech qanday kursni tugatmagansiz!";
+// }
+// console.log(message);
+
 // TRUTHY AND FALSY
 // FALSY
 // console.log(Boolean(false));
