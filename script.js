@@ -312,3 +312,62 @@
 //     console.log("NO 😂 DATE");
 //   }
 // }
+
+// const tickets = Math.trunc(Math.random() * 10);
+// switch (tickets) {
+//   case 1:
+//     {
+//       console.log("1-raqam ishtirokchisi 1000$ yutib oldi!");
+//     }
+//     break;
+//   case 2:
+//     {
+//       console.log("2-raqam ishtirokchisi 1000$ yutib oldi!");
+//     }
+//     break;
+//   case 3:
+//     {
+//       console.log("3-raqam ishtirokchisi 1000$ yutib oldi!");
+//     }
+//     break;
+//   case 4:
+//     {
+//       console.log("4-raqam ishtirokchisi 1000$ yutib oldi!");
+//     }
+//     break;
+//   case 5:
+//     {
+//       console.log("5-raqam ishtirokchisi 1000$ yutib oldi!");
+//     }
+//     break;
+//   case 6:
+//     {
+//       console.log("6-raqam ishtirokchisi 1000$ yutib oldi!");
+//     }
+//     break;
+//   case 7:
+//     {
+//       console.log("7-raqam ishtirokchisi 1000$ yutib oldi!");
+//     }
+//     break;
+//   case 8:
+//     {
+//       console.log("8-raqam ishtirokchisi 1000$ yutib oldi!");
+//     }
+//     break;
+//   case 9:
+//     {
+//       console.log("9-raqam ishtirokchisi 1000$ yutib oldi!");
+//     }
+//     break;
+//   case 10:
+//     {
+//       console.log("10-raqam ishtirokchisi 1000$ yutib oldi!");
+//     }
+//     break;
+//   default:
+//     {
+//       alert("Hech kim g'olib bo'lmadi!");
+//     }
+//     break;
+// }
