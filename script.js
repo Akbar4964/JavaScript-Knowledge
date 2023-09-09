@@ -373,8 +373,12 @@
 // }
 
 for (let i = 0; i < 10; i++) {
-  if (i === 3) {
+  console.log(i);
+}
+
+for (let item = 0; item < 10; item++) {
+  if (item === 3) {
     break;
   }
-  console.log(i);
+  console.log(item);
 }
