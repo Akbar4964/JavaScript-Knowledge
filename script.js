@@ -383,9 +383,45 @@
 //   console.log(item);
 // }
 
-for (let i = 1; i <= 5; i++) {
-  if (i === 3) {
-    continue;
-  }
-  console.log(i);
-}
+// for (let i = 1; i <= 5; i++) {
+//   if (i === 3) {
+//     continue;
+//   }
+//   console.log(i);
+// }
+
+// const a = "6";
+// let b = a + 12;
+// console.log(isNaN(b));
+// console.log(b);
+// // console.log(result);
+
+// let inc = 5;
+// // inc++;
+// console.log(++inc);
+// console.log(inc);
+
+// <,>,<=,>=,!=
+// console.log(10 != -10.00001);
+
+// // =
+// const item = "Akbar";
+// console.log(item);
+
+// and,or,not--> &&,||,!
+
+console.log(5 > 6 || (null && null == 0 && undefined));
+
+let a = 5;
+console.log(a);
+a = null;
+console.log(a);
+
+console.log("10" == "10");
+
+a = 10;
+console.log(a);
+
+console.log(true === 1);
+
+
