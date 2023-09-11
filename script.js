@@ -400,12 +400,3 @@
 // // inc++;
 // console.log(++inc);
 // console.log(inc);
-
-// <,>,<=,>=,!=
-// console.log(10 != -10.00001);
-
-// // =
-// const item = "Akbar";
-// console.log(item);
-
-// and,or,not--> &&,||,!
