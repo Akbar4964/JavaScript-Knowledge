@@ -401,3 +401,9 @@
 //   console.log("Hello world!");
 //   i++;
 // }
+
+// let i = 2;
+// while (i < 10) {
+//   console.log("Hello world!");
+//   i++;
+// }
