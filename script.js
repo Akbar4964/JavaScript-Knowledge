@@ -439,8 +439,8 @@
 //   console.log(i);
 // }
 
-let i = 0;
-do {
-  console.log("Salom!");
-  i++;
-} while (i < 10);
+// let i = 0;
+// do {
+//   console.log("Salom!");
+//   i++;
+// } while (i < 10);
