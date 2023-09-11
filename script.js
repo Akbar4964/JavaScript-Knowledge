@@ -409,13 +409,3 @@
 // console.log(item);
 
 // and,or,not--> &&,||,!
-
-console.log(5 > 6 || (null && null == 0 && undefined));
-
-let a = 5;
-console.log(a);
-a = null;
-console.log(a);
-
-console.log("10" == "10");
-
