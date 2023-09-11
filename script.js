@@ -419,14 +419,3 @@ console.log(a);
 
 console.log("10" == "10");
 
-// let student1 = {name:"AKBAR", age:"17",address:"Tashkent"};
-// let student2 = {...student1};
-// student2.name = "XISLAT";
-// student2.age = "17";
-// student2.address = "Tashkent";
-// let student3 = {...student1};
-// student3.name = "AKROM";
-// student3.age = "25";
-// student3.address = "Tashkent";
-// let students = [student1,student2,student3];
-// console.log(students)
