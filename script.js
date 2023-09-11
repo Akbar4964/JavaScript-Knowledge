@@ -389,9 +389,3 @@
 //   }
 //   console.log(i);
 // }
-
-// const a = "6";
-// let b = a + 12;
-// console.log(isNaN(b));
-// console.log(b);
-// // console.log(result);
