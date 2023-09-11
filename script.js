@@ -407,3 +407,9 @@
 //   console.log("Hello world!");
 //   i++;
 // }
+
+// let i = 3;
+// while (i < 10) {
+//   console.log("Hello world!");
+//   i++;
+// }
