@@ -430,10 +430,3 @@ console.log("10" == "10");
 // student3.address = "Tashkent";
 // let students = [student1,student2,student3];
 // console.log(students)
-
-const students = [{ name: "Akbar", surname: "Shuhratullayev", age: 17 }];
-const student = { ...students };
-student.name = "Xislat";
-student.surname = "Xislat";
-student.age = 16;
-console.log(student);
