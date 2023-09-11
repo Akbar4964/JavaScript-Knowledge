@@ -372,13 +372,20 @@
 //     break;
 // }
 
-for (let i = 0; i < 10; i++) {
-  console.log(i);
-}
+// for (let i = 0; i < 10; i++) {
+//   console.log(i);
+// }
 
-for (let item = 0; item < 10; item++) {
-  if (item === 3) {
-    break;
+// for (let item = 0; item < 10; item++) {
+//   if (item === 3) {
+//     break;
+//   }
+//   console.log(item);
+// }
+
+for (let i = 1; i <= 5; i++) {
+  if (i === 3) {
+    continue;
   }
-  console.log(item);
+  console.log(i);
 }
