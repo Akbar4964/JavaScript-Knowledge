@@ -395,8 +395,3 @@
 // console.log(isNaN(b));
 // console.log(b);
 // // console.log(result);
-
-// let inc = 5;
-// // inc++;
-// console.log(++inc);
-// console.log(inc);
