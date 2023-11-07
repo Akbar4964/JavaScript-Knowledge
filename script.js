@@ -444,5 +444,3 @@
 //   console.log("Salom!");
 //   i++;
 // } while (i < 10);
-
-
